@@ -1,0 +1,8 @@
+Factor,Descripción,Peso (Med. Geométrica),Peso (Med. Aritmética)
+F1,Violencia en el entorno,0.20381,0.16963
+F2,Precariedad económica familiar,0.0956,0.17923
+F3,Deserción escolar,0.09567,0.08248
+F4,Identificación con narcocultura,0.04117,0.04063
+F5,Proximidad al crimen organizado,0.35962,0.31512
+F6,Uso de sustancias,0.1334,0.13085
+F7,Ausencia de pertenencia prosocial,0.07074,0.08206
